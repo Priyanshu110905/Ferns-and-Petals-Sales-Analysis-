@@ -10,6 +10,7 @@ To analyze **2023 sales and operational data** to identify delivery bottlenecks,
 
 * **Data Source:** [Data](https://drive.google.com/drive/folders/1EQNh7wdcfM5LagekiAQU4zyG-3m2Sfno?usp=drive_link)
 * **Tech Stack Used:** **Microsoft Excel** (Power Query for Data Cleaning/ETL, Power Pivot & DAX for Data Modeling, Interactive Pivot Dashboards).
+![image alt](https://github.com/Priyanshu110905/Ferns-and-Petals-Sales-Analysis-/blob/a8eeddb4f6e11b1ef34bee5eb92028ae2e840cda/Screenshot%202024-10-24%20160552.png)
 
 ---
 
