@@ -29,8 +29,7 @@ Below is the core structure of the modeled data used for this analysis.
 | **Customers**| `City` | `Text` | Delivery location/city of the customer. |
 
 ### 🗂️ Data Flow Diagram (Power Pivot Model)
-![FNP Data Model Placeholder](https://via.placeholder.com/800x400?text=Insert+Excel+Data+Model+Screenshot+Here)
-*(Note: The 'Orders' dataset acts as the central fact table, with 'Products' and 'Customers' acting as dimension tables connected via unique IDs in Excel Power Pivot.)*
+![image alt](https://github.com/Priyanshu110905/Ferns-and-Petals-Sales-Analysis-/blob/0ed2335843c729a50b0f8d0f687a67153c087abc/Data%20Diagram.png)
 
 ### 🧹 Visual Data Cleaning Process (Power Query)
 Raw data contained inconsistencies in date formatting, uncalculated logistics metrics, and missing price extensions. Below is the transformation process executed in Excel:
